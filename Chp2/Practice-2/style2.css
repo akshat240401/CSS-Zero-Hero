@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: bisque;
+}
+ul{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+li{
+    padding: 5px;
+    margin: 5px;
+}
+.main{
+    background-color: red;
+    color: white;
+}
+.bg{
+    width: 344px;
+    height: 344px;
+    background-image: url('../img/img1.jpg');
+    background-repeat: no-repeat;
+    background-size: 344px 344px;
+}
+.box{
+    height: 1080px;
+    width: 341px;
+    border: 2px solid black;
+    background-image: url('../img/img1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
