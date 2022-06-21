@@ -1,0 +1,41 @@
+.box-1{
+    background: red;
+    color: white;
+    height: 700px;
+    width: 350px;
+    margin: 15px;
+    padding: 15px;
+    /* border: 5px solid black; */
+    border-width: 5px;
+    border-style:solid;
+    border-color: black;
+    border-radius: 10px;
+}
+.box-2{
+    background: rgb(11, 255, 3);
+    color: white;
+    height: 423px;
+    width: 350px;
+    margin: 15px;
+    padding: 15px;
+    /* border: 5px solid black; */
+    border-width: 5px;
+    border-style:dotted;
+    border-color: black;
+    border-radius: 10px;
+    box-sizing:border-box;
+    justify-content: center;
+}
+.box-3{
+    background: rgb(3, 75, 255);
+    color: white;
+    height: 423px;
+    width: 330px;
+    padding: 15px;
+    /* border: 5px solid black; */
+    border-width: 5px;
+    border-style:dotted;
+    border-color: black;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
